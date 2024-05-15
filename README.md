@@ -132,4 +132,5 @@ border: 5px solid black;
 ## OUTPUT:
 ![image](https://github.com/andralikitha/Calc/assets/131592130/025c3e59-37bb-4111-81d4-9b1024ba4a35)
 
+## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
